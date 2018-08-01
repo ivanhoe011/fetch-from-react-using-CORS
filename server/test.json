@@ -1,0 +1,27 @@
+{
+  "users":[
+    {
+      "id":1,
+      "name":"Perra",
+      "email":"rick@gmail.com",
+      "title" : "Naslov prvi",
+      "body": "neki tekst prvi"
+    },
+    {
+      "id":2,
+      "name":"Glenn",
+      "email":"glenn@gmail.com",
+      "title" : "Naslov drugi",
+      "body": "neki tekst drugi"
+    },
+    {
+      "id":3,
+      "name":"Negan",
+      "email":"negan@gmail.com",
+      "title" : "Naslov treci ",
+      "body": "neki tekst treci"
+    }
+  ]
+
+
+}
